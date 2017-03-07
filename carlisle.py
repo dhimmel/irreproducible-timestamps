@@ -6,7 +6,13 @@ import bitcoin
 def carlisle_method(data, compress=False):
     """
     Use the Carlisle method to generate a bitcoin address the hash of data.
-    Returns a dictionary with address and generation information.
+
+    Args:
+        data: bytes, data to hash
+        compress: bool, whether to compress the public key
+
+    Returns:
+        dictionary with address generation information
     """
     # Compute the sha256 hash of the data
     sha256_hash = hashlib.sha256(data)
