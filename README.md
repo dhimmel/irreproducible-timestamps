@@ -8,6 +8,8 @@ _F1000Research_ (2016) DOI: [10.12688/f1000research.8114.2](https://doi.org/10.1
 
 See [`addresses.ipynb`](addresses.ipynb) for a notebook which unsuccessfully attempts to verify Irving & Holden's proof of existence.
 
+This findings of this analysis are discussed in a companion blog post at http://blog.dhimmel.com/irreproducible-timestamps/.
+
 ## Binder
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dhimmel/irreproducible-timestamps)
