@@ -1,5 +1,7 @@
 # Irreproducible Timestamps
 
+[![Latest Zenodo DOI Badge](https://zenodo.org/badge/84226334.svg)](https://zenodo.org/badge/latestdoi/84226334)
+
 This repository is a replication analysis of the following study:
 
 > **How blockchain-timestamped protocols could improve the trustworthiness of medical science**<br>
