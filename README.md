@@ -8,6 +8,12 @@ _F1000Research_ (2016) DOI: [10.12688/f1000research.8114.2](https://doi.org/10.1
 
 See [`addresses.ipynb`](addresses.ipynb) for a notebook which unsuccessfully attempts to verify Irving & Holden's proof of existence.
 
+## Binder
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/dhimmel/irreproducible-timestamps)
+
+Click the badge above to launch this repository in Binder. If the binder fails to launch, check the [system status](http://mybinder.org/status), since mybinder.org experiences downtime often. If the binder image is outdated, you can rebuild it [here](http://mybinder.org/status/dhimmel/irreproducible-timestamps).
+
 ## Environment
 
 Install the [conda](https://conda.io) environment specified in [`environment.yml`](environment.yml) by running:
