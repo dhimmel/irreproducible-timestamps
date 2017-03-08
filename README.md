@@ -7,7 +7,7 @@ This repository is a replication analysis of the following study:
 Greg Irving, John Holden<br>
 _F1000Research_ (2016) DOI: [10.12688/f1000research.8114.2](https://doi.org/10.12688/f1000research.8114.2)
 
-See [`addresses.ipynb`](addresses.ipynb) for a notebook which unsuccessfully attempts to verify Irving & Holden's proof of existence.
+See [`addresses.ipynb`](addresses.ipynb) for a notebook which unsuccessfully attempts to verify Irving & Holden's timestamp using the [Carlisle method](http://www.bgcarlisle.com/blog/2014/08/25/proof-of-prespecified-endpoints-in-medical-research-with-the-bitcoin-blockchain/ "Proof of prespecified endpoints in medical research with the bitcoin blockchain").
 
 This findings of this analysis are discussed in a companion blog post at http://blog.dhimmel.com/irreproducible-timestamps/.
 
