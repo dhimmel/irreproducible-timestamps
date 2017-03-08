@@ -8,6 +8,17 @@ _F1000Research_ (2016) DOI: [10.12688/f1000research.8114.2](https://doi.org/10.1
 
 See [`addresses.ipynb`](addresses.ipynb) for a notebook which unsuccessfully attempts to verify Irving & Holden's proof of existence.
 
+## Environment
+
+Install the [conda](https://conda.io) environment specified in [`environment.yml`](environment.yml) by running:
+
+```sh
+conda env create --file environment.yml
+```
+
+Activate with `source activate timestamps`.
+
+
 ## License
 
 Content in this repository is released under a [public domain dedication](LICENSE.md) unless otherwise noted. 
