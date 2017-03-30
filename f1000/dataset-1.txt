@@ -1,0 +1,24 @@
+The CArdiovasCulAr Diabetes & Ethanol (CASCADE) Trial (CASCADE)
+
+
+Study Type:	Interventional 
+Study Design:	Allocation: Randomized
+Endpoint Classification: Safety/Efficacy Study
+Intervention Model: Parallel Assignment
+Masking: Open Label
+Primary Purpose: Prevention
+Official Title:	Cardiovascular and Metabolic Effects of Moderate Alcohol Consumption in Type 2 Diabetes
+
+Further study details as provided by Ben-Gurion University of the Negev:
+
+Primary Outcome Measures: 
+Glycemic control [ Time Frame: 6 months ] [ Designated as safety issue: Yes ]
+
+Secondary Outcome Measures: 
+CVD status [ Time Frame: 6 months ] [ Designated as safety issue: Yes ]
+
+
+Estimated Enrollment:	200
+Study Start Date:	May 2010
+Estimated Study Completion Date:	May 2012
+Estimated Primary Completion Date:	May 2012 (Final data collection date for primary outcome measure)
